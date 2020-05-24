@@ -63,7 +63,6 @@ public class Map
 
         setSym(y, x, PLAYER_DOT);
     }
-
     //4. *** Доработать искусственный интеллект, чтобы он мог блокировать ходы игрока.
     public static void aiStep()
     {
